@@ -104,7 +104,7 @@ The following cmake arguments are available when compiling:
 ### Other Platforms
 The only directly supported platforms are those listed above. Since Mania is very easy to build, requiring no additional dependencies, virtually any platform that can run RSDKv5 can compile Mania easily.
 
-However, there are a multitude of ports listed in the **[RSDKv5 repository.](https://github.com/RSDKModding/RSDKv5-Decompilation)**
+However, there are a multitude of ports listed in the **[RSDKv5 repository.](https://github.com/C00LKID-oss-alt/RSDKv5-Decompilation-Android/tree/191d7aea6c262d891244172a8609ac69fbfd7571#other-platforms)**
 
 # FAQ
 ### Q: Why aren't videos/filters working while using GL?
