@@ -7,3 +7,6 @@
 [submodule "dependencies/RSDKv5"]
 	path = dependencies/RSDKv5
 	url = https://github.com/Rubberduckycooly/RSDKv5-Decompilation
+[submodule "dependencies/RSDKv5-Decompilation-Android"]
+	path = dependencies/RSDKv5-Decompilation-Android
+	url = https://github.com/C00LKID-oss-alt/RSDKv5-Decompilation-Android.git
